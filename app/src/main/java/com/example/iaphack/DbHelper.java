@@ -57,7 +57,7 @@ public class DbHelper extends SQLiteOpenHelper {
             String purchaseTime = purchaseInfo.getString("purchaseTime");
             String purchaseToken = purchaseInfo.getString("purchaseToken");
             int purchaseState = purchaseInfo.getInt("purchaseState");
-            String developerPayload = purchaseInfo.getString("developerPayload");
+            String developerPayload = purchaseInfo.optString("developerPayload", "");
 
             ContentValues values = new ContentValues();
             values.put("orderId", orderId);

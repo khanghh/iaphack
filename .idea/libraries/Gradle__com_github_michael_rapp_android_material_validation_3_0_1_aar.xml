@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.michael-rapp:android-material-validation:3.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d416b50059a31de594c4954e2fe6262/jetified-android-material-validation-3.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d416b50059a31de594c4954e2fe6262/jetified-android-material-validation-3.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8d416b50059a31de594c4954e2fe6262/jetified-android-material-validation-3.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.michael-rapp/android-material-validation/3.0.1/ea8896e1871773c1b07f39c02458a0391c44ef2a/android-material-validation-3.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.michael-rapp/android-material-validation/3.0.1/b89bb531585e6d24effb6cb5e6762f7cb3d12b91/android-material-validation-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
